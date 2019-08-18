@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-18T13:17:32.144Z",
+  "date": "2019-08-18T13:20:03.536Z",
   "describe": "",
   "description": "Utility to get a getter.",
   "file": "util-get-getter-x.js",
