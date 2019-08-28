@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T15:34:12.676Z",
+  "date": "2019-08-28T17:33:15.376Z",
   "describe": "",
   "description": "Utility to get a getter.",
   "file": "util-get-getter-x.js",
   "hash": "e01f8b49cb9ecb7ea57d",
   "license": "MIT",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
